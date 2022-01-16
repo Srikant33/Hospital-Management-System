@@ -1,0 +1,11 @@
+$conn = new PDO("mysql:host=localhost;dbname=hms", "root", "");
+
+
+while($row = $retval->fetch(PDO::FETCH_ASSOC))
+
+$result=$conn->query($sql);
+$retval = $conn->query( $sql );
+
+
+$conn=null;
+    
