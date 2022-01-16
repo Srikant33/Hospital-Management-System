@@ -9,18 +9,30 @@ The Hospital Management System can be entered using a username and password. It 
 Now let me introduced to the fact, why you should go for it. The following points will glorify the beauty of it.
 
 •	Computerization - All the details regarding hospitals, whether it is small or big, will be computerised. 
+
 •	No redundancy - For every test that is conducted of the patients, an automated report will be generated and will be available to the patients and his / her concerned doctor uniformly. 
+
 •	Keep the Records – It will be easier task for the management to keep the record of the patients for historical purpose. 
 
 Key Features
 •	Multi user account system
+
 •	Management of all type of users’ account 
+
 •	Appointment Management 
+
 •	View Appointments 
+
 •	Medical History 
+
 •	Invoice Management 
+
 •	Medical Report Management 
+
 •	View patient Database
+
 •	See Patient History
+
 •	See Prescriptions Issued
+
 
